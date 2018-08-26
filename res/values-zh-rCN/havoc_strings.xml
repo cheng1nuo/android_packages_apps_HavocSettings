@@ -1983,29 +1983,3 @@
     <string name="DESC_IDLE_FACTOR">每次循环打盹的结束下一轮打盹时间加长的系数</string> 
     <string name="DESC_MIN_TIME_TO_ALARM">在进入打盹模式（IDLE）后，到下一个闹钟（ALARM）的最短时间</string> 
 </resources>
-<!-- 多餘的項目 --> 
-	<string name="choose_app">选择应用程序</string>
-    <string name="not_ready_summary">解决中</string>
-    <string name="resolve_failed_summary">解决应用程序失败</string>
-    <string name="disabled_entry">已禁用</string>
-    <string name="unit_sec">秒</string>
-    <string name="unit_msec">毫秒</string>
-    <string name="category_media_player_title">媒体播放器</string>
-    <string name="bt_a2dp_connect_app_list_title">蓝牙 A2DP 连接</string>
-    <string name="headset_connect_app_list_title">有线耳机连接</string>
-    <string name="event_service_enabled_title">启用事件服务</string>
-    <string name="event_service_running">服务正在运行</string>
-    <string name="event_service_stopped">服务未运行</string>
-    <string name="category_media_player_info_title">应用程序选择</string>
-    <string name="media_player_autostart_title">启动后发送媒体播放事件</string>
-    <string name="media_player_music_active_title">播放时不启动事件</string>
-    <string name="autorun_single_app_title">自动运行单个应用程序</string>
-    <string name="autorun_single_app_summary">不显示应用程序选择对话框</string>
-    <string name="bt_a2dp_connect_app_list_summary">当触发一个 A2DP 事件时列出的应用程序, 如连接蓝牙耳机</string>
-    <string name="headset_connect_app_list_summary">连接有线耳机时要列出的应用程序</string>
-    <string name="app_chooser_left">左恻</string>
-    <string name="app_chooser_right">右侧</string>
-    <string name="app_chooser_timeout_title">应用程序选择器对话框超时</string>
-    <string name="app_chooser_position_title">应用程序选择器对话框位置</string>
-    <string name="wired_events_threshold_title">有线耳机事件阈值</string>
-    <string name="wired_events_threshold_summary">在阈值时间内忽略耳机事件</string>
