@@ -1388,15 +1388,15 @@
     <string name="settings_blur_sum">系统界面背景模糊设置</string>
     <string name="blurred_status_bar_expanded_enabled_pref">模糊状态栏背景</string>
     <string name="blurred_status_bar_expanded_enabled_pref_summary">对快速设置下栏进行高斯模糊</string>
-    <string name="translucent_notifications_pref">半透明通知</string>
-    <string name="translucent_notifications_pref_summary">设置通知的背景半透明</string>
+    <string name="translucent_notifications_pref">透明通知区域</string>
+    <string name="translucent_notifications_pref_summary">使通知区域的背景透明化</string>
     <string name="translucent_quick_settings_pref">透明扩展状态栏</string>
     <string name="translucent_quick_settings_pref_summary">使快速设置的背景透明化</string>
-    <string name="translucent_volume_dialog_pref">模糊音量面板</string>
-    <string name="translucent_volume_dialog_pref_summary">使音量面板模糊</string>
+    <string name="translucent_volume_dialog_pref">透明音量面板</string>
+    <string name="translucent_volume_dialog_pref_summary">使音量面板的背景透明化</string>
 	<string name="transluency_level_universal">透明度</string>
     <string name="blurred_recent_app_enabled_pref">模糊化最近应用界面</string>
-    <string name="blurred_recent_app_enabled_pref_summary">模糊最近应用活动背景</string>
+    <string name="blurred_recent_app_enabled_pref_summary">使最近应用界面的背景模糊化</string>
     
 	<string name="blur_light_color">浅色图像彩色滤光片</string>
     <string name="blur_dark_color">深色图像彩色滤光片</string>
