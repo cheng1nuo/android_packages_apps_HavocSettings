@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+tran<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2018 Havoc-OS
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -1392,8 +1392,8 @@
     <string name="translucent_notifications_pref_summary">设置通知的背景半透明</string>
     <string name="translucent_quick_settings_pref">透明扩展状态栏</string>
     <string name="translucent_quick_settings_pref_summary">使快速设置的背景透明化</string>
-    <string name="translucent_volume_dialog_pref">Blurred volume panel</string>
-    <string name="translucent_volume_dialog_pref_summary">Blur the volume dialog panel</string>
+    <string name="translucent_volume_dialog_pref">模糊音量面板</string>
+    <string name="translucent_volume_dialog_pref_summary">使音量面板模糊</string>
 	<string name="transluency_level_universal">透明度</string>
     <string name="blurred_recent_app_enabled_pref">模糊化最近应用界面</string>
     <string name="blurred_recent_app_enabled_pref_summary">模糊最近应用活动背景</string>
@@ -1743,9 +1743,9 @@
     <string name="lockscreen_clock_selection_sammy">竖式时钟</string>
     <string name="lockscreen_clock_selection_sammy_bold">竖式时钟 (粗体)</string>
 	<string name="lockscreen_clock_selection_sammy_accent">Sammy Accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy Accent (Alternate)</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy Accent (交替)</string>
     <string name="lockscreen_date_selection_title">日期样式</string>
-    <string name="lockscreen_weather_selection_title">Weather style</string> 
+    <string name="lockscreen_weather_selection_title">天气样式</string> 
 	<string name="lockscreen_date_selection_default_aosp">默认</string>
     <string name="lockscreen_date_selection_default">默认（较大）</string>
     <string name="lockscreen_date_selection_str_box">半透明方盒</string>
@@ -1754,8 +1754,8 @@
     <string name="lockscreen_date_selection_outline_round">白色轮廓 (圆形)</string>
     <string name="lockscreen_date_selection_outline_box_black">黑色轮廓</string>
     <string name="lockscreen_date_selection_outline_round_black">黑色轮廓 (圆形)</string>
-    <string name="lockscreen_date_selection_outline_box_accent">Accent based outline</string>
-    <string name="lockscreen_date_selection_outline_round_accent">Accent based (Round)</string>
+    <string name="lockscreen_date_selection_outline_box_accent">基于强调色</string>
+    <string name="lockscreen_date_selection_outline_round_accent">基于强调色（圆形）</string>
     
 	<!-- Notification light dialogs -->
     <string name="edit_light_settings">编辑通知灯设置</string>
@@ -1954,7 +1954,7 @@
 	
 	<!-- Oreo QS -->
     <string name="oreo_qs_title">Android P 快速设置瓷帖</string>
-    <string name="oreo_qs_summary">禁用以还原 Oore 快速设置瓷帖</string>
+    <string name="oreo_qs_summary">禁用以还原 Oroe 快速设置瓷帖样式</string>
 	
     <!-- Doze settings editor --> 
     <string name="doze_settings_title">打盹设置</string> 
